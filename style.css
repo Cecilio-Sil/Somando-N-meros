@@ -1,0 +1,26 @@
+body {
+	background: #363636;
+	font: normal 15pt Arial;
+}
+
+#quadro{
+	background: #000;			
+	height:250px;				
+	width:350px;				
+	color:#fff;					
+	text-align: center;			
+	border-radius: 20px;		
+	padding: 15px;				
+	
+	
+	margin: auto;
+	transform: translate(0px, 200px); 
+}
+
+#res {	
+	color: #ff0;
+}
+
+#txtn1, #txtn2 {
+	width:100px;
+}
