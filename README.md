@@ -5,7 +5,7 @@
 
 O projeto Somando Números tem o objetivo de demostrar a interatividade da linguagem de programação JavaScript com Objetos DOM dentro de um arquivo HTML atravez do site [Curso em Vídeo](https://www.cursoemvideo.com/).
 
-Além disso, este projeto desmostra o meu desenvolvimento e conhocimentos adiquiridos por meio da construção e modificação do projeto original.
+Adiante disso, este projeto desmostra o meu desenvolvimento e conhecimentos adiquiridos por meio da construção e modificação do projeto original visto em aula.
 
 ## Layout web
 ![img 2](img2.PNG)
@@ -13,7 +13,7 @@ Além disso, este projeto desmostra o meu desenvolvimento e conhocimentos adiqui
 ![img 1](img1.PNG)
 
 # Tecnologias utilizadas
-## Front end
+- javaScript
 - HTML
 - CSS 
 
